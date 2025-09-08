@@ -48,10 +48,10 @@ fi
 
 ### Q1=differnce between $1,$@ and $# in bash?
 
-ans =
-$1= Refers to the first positional parameter passed to the script or function. 
-$@= Represents all the positional parameters passed to the script as a list of separate arguments. 
-$#= Represents the number of positional parameters passed to the script. 
+ans = 
+1. $1 Refers to the first positional parameter passed to the script or function. 
+2. $@ Represents all the positional parameters passed to the script as a list of separate arguments. 
+3. $# Represents the number of positional parameters passed to the script. 
 
 ### Q2=what does exit 1 mean in the script ?
 
