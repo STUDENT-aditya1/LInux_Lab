@@ -56,4 +56,5 @@ ans =
 ### Q2=what does exit 1 mean in the script ?
 
 ans =
+
 In a script, exit 1 means that the script is terminating with an error status. 
