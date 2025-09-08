@@ -13,20 +13,21 @@ more.
 
     2 select your operating system
     
-  ![alt text](<images/Screenshot from 2025-09-05 10-54-02.png>)
+![alt text](<../images/Screenshot from 2025-09-05 10-54-02.png>)
 
 ## ✅ STEP 2 : INSTALLING VIRTUAL BOX
     
  ### ✅ 1 The beginning
-![alt text](<images/Screenshot from 2025-09-05 10-59-07.png>)
+![alt text](<../images/Screenshot from 2025-09-05 10-59-07.png>)
  ### ✅ 2 select installation location
-![alt text](<images/Screenshot from 2025-09-05 11-01-54.png>)
+![alt text](<../images/Screenshot from 2025-09-05 11-01-54.png>)
  ### ✅ 3 ready to install
-![alt text](<images/Screenshot from 2025-09-05 11-04-51.png>)📌
+![alt text](<../images/Screenshot from 2025-09-05 11-04-51.png>)📌
  ### ✅ 4 installation complete 
-![alt text](<images/Screenshot from 2025-09-05 11-06-20.png>)
+![alt text](<../images/Screenshot from 2025-09-05 11-06-20.png>)
  ### ✅5 opening virtualbox
-![alt text](<images/Screenshot from 2025-09-05 11-08-41.png>)
+![alt text](<../images/Screenshot from 2025-09-05 11-08-41.png>)
+
 ## STEP ✅ 3 : INSTALLING LINUX USING VIRTUALBOX
 ### ✅ 1 Naming virtual machine
 
@@ -37,10 +38,13 @@ more.
    – Select Type: Linux.
 
    – Select Version: Ubuntu
-![alt text](<images/Screenshot from 2025-09-05 11-13-58.png>)
+![alt text](<../images/Screenshot from 2025-09-05 11-13-58.png>)
+   
    ### ✅ 2 select the amount of ram
-![alt text](<images/Screenshot from 2025-09-05 11-16-56.png>)
+![alt text](<../images/Screenshot from 2025-09-05 11-16-56.png>)
+
 ### ✅ 3 Hard Disk setting
+  
   Select hard disk setting:
 
   – Choose ‘Create a virtual hard drive Now’, in order to make a virtual disk space.
@@ -49,29 +53,34 @@ more.
 
   -now you are done with hardware settings.
 
-![alt text](<images/Screenshot from 2025-09-05 11-20-06.png>)
+![alt text](<../images/Screenshot from 2025-09-05 11-20-06.png>)
+
   ### ✅ 4 Launching your System
 
    Choose the downloaded Linux ISO file:
 
    – Click Start to launch your system
 
-![alt text](<images/Screenshot from 2025-09-05 11-22-30.png>)
+![alt text](<../images/Screenshot from 2025-09-05 11-22-30.png>)
    - choose your iso file from your computer
 
-![alt text](<images/Screenshot from 2025-09-05 11-24-11.png>)
+![alt text](<../images/Screenshot from 2025-09-05 11-24-11.png>)
+
    ### ✅ 5 Final installation
 
     Install Linux
 
     – Click Install Linux Mint:
      testf
- ![alt text](<images/Screenshot from 2025-09-05 11-27-59.png>)
+
+![alt text](<../images/Screenshot from 2025-09-05 11-27-59.png>)
+
   ### ✅ Make your Account:
 
 – Enter your details as shown below
 
-![alt text](<images/Screenshot from 2025-09-05 11-34-05.png>)
+![alt text](<../images/Screenshot from 2025-09-05 11-34-05.png>)
+
 # 📌 CONGRATULATIONS YOU HAVE SUCCESSFULLY INSTALLED THEUBUNTU LINUX .
 
 # 📌 What are two advantages of installing ubuntu in virtual box?
