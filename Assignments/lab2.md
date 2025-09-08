@@ -5,31 +5,31 @@
   ```
  #!/bin/bash      - shebang
  echo "hello, world!"     - printing hello world
- name="vansh"   - taking vansh in variable name
- age=17     -  taking 17 in variable age 
+ name="Aditya"   - taking Aditya in variable name
+ age=18     -  taking 18 in variable age 
 
- echo "My name is $name ansd I am $age year old."  - printing name and age
+ echo "My name is $name and I am $age year old."  - printing name and age
 ```
-![alt text](<../images/Screenshot from 2025-09-08 18-13-06.png>)
+![alt text](<../images/Screenshot from 2025-09-08 18-51-33.png>)
 
-![alt text](<../images/Screenshot from 2025-09-08 18-16-49.png>)
+![alt text](<../images/Screenshot from 2025-09-08 18-49-20.png>)
 # 🔧 script 2
 
 ```
 #!/bin/bash        -shebang
-a="vansh"           -taking vansh in the variable a
+a="Aditya"           -taking Aditya in the variable a
 b=40                 -taking 40 in the variable b
 
-if [ $a="vansh" ] && [ $b -gt 18 ]; then      -checking conditions and using an opreator and(&&)
+if [ $a="Aditya" ] && [ $b -gt 18 ]; then      -checking conditions and using an opreator and(&&)
     echo " you are adult "                     - printing you are adult
 fi
 
-if [ $a=" akshat" ] && [ $b -lt 18 ]; then       -checking conditions and using an opreator and(&&)
+if [ $a="Vyom" ] && [ $b -lt 18 ]; then       -checking conditions and using an opreator and(&&)
     echo "you are minor"                         - printing you are minor
 fi
 
 ```
-![alt text](<../images/Screenshot from 2025-09-08 18-26-42.png>)
+![alt text](<../images/Screenshot from 2025-09-08 19-01-39.png>)
 
 ![alt text](<../images/Screenshot from 2025-09-08 18-31-50.png>)
 
