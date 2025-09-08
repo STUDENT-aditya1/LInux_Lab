@@ -49,11 +49,9 @@ fi
 ### Q1=differnce between $1,$@ and $# in bash?
 
 ans =
-$1: Refers to the first positional parameter passed to the script or function. For example, if the script is run with ./script.sh arg1 arg2, then $1 is arg1.
-
-$@: Represents all the positional parameters passed to the script as a list of separate arguments. When quoted as "$@", each argument is preserved as a separate word, making it useful for iterating over all arguments individually.
-
-$#: Represents the number of positional parameters passed to the script. For instance, if three arguments are passed, $# will be 3.
+$1= Refers to the first positional parameter passed to the script or function. 
+$@= Represents all the positional parameters passed to the script as a list of separate arguments. 
+$#= Represents the number of positional parameters passed to the script. 
 
 ### Q2=what does exit 1 mean in the script ?
 
