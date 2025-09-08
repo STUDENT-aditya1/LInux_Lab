@@ -293,10 +293,10 @@ chown [options] new_owner:new_group filename
 ### Examples:
 
 ```bash
-chown vanshgoel.txt          # Change owner to user 'sameer'
-chown vansh:dev.txt       # Change owner to 'sameer' and group to 'dev'
-chown vansh:dev file.txt            # Change only group to 'dev'
-chown -R vansh :dev /project    # Recursive ownership change
+chown Aditya.txt          # Change owner to user 'Aditya'
+chown Aditya:dev.txt       # Change owner to 'Aditya' and group to 'dev'
+chown Aditya:dev file.txt            # Change only group to 'dev'
+chown -R Aditya:dev /project    # Recursive ownership change
 ```
 # **Practice Experiment on `chown`**
 
@@ -343,7 +343,7 @@ ls -l testfile.txt
 Example:
 
 ```
--rw-rw-r--1 sameerbhardwaj sameerbhardwaj 0 Aug 20 18:52 testfile.txt
+-rw-rw-r-- 1 NEWUSER newgroup 0 Sep  8 17:28 testfile.txt
 ```
 
 ---
@@ -365,7 +365,7 @@ ls -l testfile.txt
 **Output:**
 
 ```
--rw-rw-r--1 newuser newgroup 0 Aug 20 18:52 testfile.txt
+-rw-rw-r--1 NEWUSER newgroup 0 sept 08 17:29 testfile.txt
 ```
 ---
 
@@ -387,7 +387,7 @@ ls -l project.sh
 Output:
 
 ```
--rw-r--r-- 1 sameer dev 0 Aug 19 12:00 project.sh
+-rw-r--r-- 1 NEWUSER newgroup 0 sept 08 17:30 project.sh
 ```
 
 Now:
