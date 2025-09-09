@@ -77,7 +77,9 @@ Files copied into ⁠ backup/ ⁠ with timestamps:
 ![alt text](<../images/Screenshot from 2025-09-09 14-38-17.png>)
 ### 🛠️ Q1-What is the difference between cp,mv,and rsync?
 ans = cp: cp command is used for copying files or directories.
+      
       mv: mv command is used for moving or renaming files or directories.
+      
       rsync: rsync command is used for copying and synchronizing files or directories both locally and remotely.
 
 ### ✅ Q2-How can you schedule scripts to run automatically?
