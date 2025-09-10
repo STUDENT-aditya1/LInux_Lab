@@ -13,7 +13,7 @@
 
 ![alt text](<../images/Screenshot from 2025-09-10 21-47-52.png>)
 
-# 📌 expalnation
+# 📌 explanation
 
 1 Validate number of arguments
 
