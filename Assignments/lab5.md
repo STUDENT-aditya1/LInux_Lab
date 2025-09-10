@@ -30,7 +30,7 @@ the project/ folder).
 
 
 ## 🔧 output
-![alt text](<../images/Screenshot from 2025-09-10 12-39-05.png>)
+![alt text](<../images/Screenshot from 2025-09-10 13-10-37.png>)
 
 
 ## 🔧 Check the folder structure:
