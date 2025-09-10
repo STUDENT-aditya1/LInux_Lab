@@ -51,14 +51,13 @@ This helps developers begin with an organized workspace without manually creatin
 bash starter_kit.sh"
 ```
 
+### 🔧 Q1 what does mkdir -p do?
+ans=
 
+Here mkdir -p command is used to create a directory along with its parent directories as needed, without producing errors if some directories already exist. 
 
-### 🔧 Q1 Why is automation useful in DevoPs?
+### 🔧 Q2 Why is automation useful in DevoPs?
 ans=
 
 Automation is useful in DevOps because it speeds up software delivery, ensures consistency, reduces human error, and boosts collaboration between teams.
 
-### 🔧 Q2 what does mkdir -p do?
-ans=
-
-Here mkdir -p command is used to create a directory along with its parent directories as needed, without producing errors if some directories already exist. 
