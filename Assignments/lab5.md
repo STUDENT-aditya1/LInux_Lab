@@ -35,3 +35,28 @@ the project/ folder).
 
 ## 🔧 Check the folder structure:
 
+![alt text](<../images/Screenshot from 2025-09-10 12-49-14.png>)
+
+# 🔧 LAB Extra – Starter Kit & Automation
+
+## Purpose of the Script
+The script ⁠ starter_kit.sh ⁠ is designed to automate the creation of a starter project environment.  
+It ensures a consistent folder structure (⁠ scripts/ ⁠, ⁠ docs/ ⁠, ⁠ data/ ⁠) under the ⁠ project/ ⁠ directory and places placeholder ⁠ README.md ⁠ files inside each folder.  
+This helps developers begin with an organized workspace without manually creating directories.
+
+## Example Run
+
+### Command:
+```bash
+bash starter_kit.sh"
+```
+
+
+
+### 🔧 Q1 Why is automation useful in DevoPs?
+ans=
+Automation is useful in DevOps because it speeds up software delivery, ensures consistency, reduces human error, and boosts collaboration between teams.
+
+### 🔧 Q2 what does mkdir -p do?
+ans=
+Here mkdir -p command is used to create a directory along with its parent directories as needed, without producing errors if some directories already exist. 
